@@ -1,0 +1,118 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+table{
+    /* padding-top: 80px; */
+    /* margin-top: 100px;  */
+    /* text-align: center; */
+}
+table, th, td{
+    border: 1px solid black;
+    width: 600px;
+    text-align: left;
+}
+a:hover{
+    color: red;
+}
+.Header-logo{
+    height: 65px;
+}
+.heading-container{
+    display: flex;
+    justify-content: space-between;
+    line-height: 60px;
+    padding: 0px 30px;
+    margin: 0px 65px;
+}
+.selection{
+    display: flex;
+    justify-content: space-around;
+    border-left: 1px grey solid;
+    padding-left: 40px;
+    font-size: 15px;
+    color: black;
+}
+.colortype{
+    background-color: red;
+    padding-right: 45px;
+    /* margin-right: 15px; */
+    border-right: 1px solid white;
+}
+.body-container-top{
+    height: 600px;
+}
+.up{
+    display: flex;
+    justify-content: center;
+    line-height: 60px;
+    padding: 80px 0px;
+    margin: 140px 0px;
+    /* background-color: red; */
+    /* height: 700px       ; */
+}
+.move{
+    font-weight: bold;
+    font-size: 100px;
+    font-family: Arial;
+    font-style: italic;
+}
+.above{
+    margin: 7px;
+    padding-left: 23px;
+}
+.end{
+    font-size: 90px;
+    font-family: "Open Sans Extrabold", "Open Sans";
+    margin-top: -3px;
+}
+.lh{
+    margin-top: 55px;
+    padding-right: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.rh{
+    margin-top: 55px;
+    padding-left: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.follow-up{
+    text-align: center;
+    margin-top: -100px;
+    color: grey;
+}
+.final{
+    text-align: center;
+    line-height: 60px;
+}
+.images{
+    width: 80px;
+    padding: 0px 15px;
+}
+.body-container-bottom{
+    height: 600px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.boldhead{
+    color: white;
+    font-weight: bold;
+}
+.context{
+    color: gray;
+}
+.contact-us{
+    height: 40px;
+    border-radius: 50%;
+}
+.colouring{
+    color: white;
+}
